@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Application.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\Debug\Template.exe
